@@ -9,4 +9,4 @@
 * Для передачи результатов заказчику оформить всю необходимую документацию.
 
 ### Использованные инструменты	
-Python, Airflow, Sqlalchemy, Psycopg2, Pymongo, Pandas, json
+Python, PostgreSQL, Airflow, Sqlalchemy, Psycopg2, Pymongo, Pandas, json
